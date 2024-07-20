@@ -1,10 +1,12 @@
 Giriş ekranı
+-
 ![0](https://github.com/user-attachments/assets/1ca9b6e5-72a0-4afa-b288-02b7520a3369)
 -
 Anasayfa
+-
 ![1](https://github.com/user-attachments/assets/36fbb7c5-91d5-4176-a563-52acc4ac052a)
 -
-Egzersiz Videolarının bulunduğu ve fizyoterapiste soru sorabileceğiniz arayüz sayfaso
+Egzersiz Videolarının bulunduğu ve fizyoterapiste soru sorabileceğiniz arayüz sayfası
 ![2](https://github.com/user-attachments/assets/d6c0b586-b8d3-4658-83c8-5d3c60fb1ef0)
 -
 Örnek Video oynatımı
